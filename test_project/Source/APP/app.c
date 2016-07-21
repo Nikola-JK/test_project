@@ -138,7 +138,7 @@ static  void  AppTaskStart(void *p_arg)
 		LED_RUN_ON;//运行指示灯。在Exception中关断
 		
 		
-
+//test
 		while(DEF_TRUE) 
 		{			
 				if(!FLAG_warning) {	//未报警时，运行校准灯指示，有报警时此灯一直亮
