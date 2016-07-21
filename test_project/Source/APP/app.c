@@ -429,6 +429,8 @@ static void AppTaskGSM(void *pdata)
     }
 } 
 
+//testZigbee
+
 //参数采集任务
 static void ParaInit(uint16_t ChannelSlope[4][36]);
 float ParaAll[4][48] = {0.0};	//48个通道，每个4个参数
