@@ -1,0 +1,12 @@
+.\Obj\guidemo_graph.o: Source\uCGUI\uCGUIDemo\GUIDEMO_Graph.c
+.\Obj\guidemo_graph.o: .\Source\uCGUI\inc\GUI.h
+.\Obj\guidemo_graph.o: .\Source\uCGUI\inc\GUI_ConfDefaults.h
+.\Obj\guidemo_graph.o: .\Source\uCGUI\inc\GUIConf.h
+.\Obj\guidemo_graph.o: .\Source\uCGUI\inc\GUIType.h
+.\Obj\guidemo_graph.o: .\Source\uCGUI\inc\LCD.h
+.\Obj\guidemo_graph.o: .\Source\uCGUI\inc\GUIVersion.h
+.\Obj\guidemo_graph.o: .\Source\uCGUI\inc\LCD_ConfDefaults.h
+.\Obj\guidemo_graph.o: .\Source\uCGUI\inc\LCDConf.h
+.\Obj\guidemo_graph.o: F:\soft\MDK4.23\ARM\RV31\Inc\math.h
+.\Obj\guidemo_graph.o: F:\soft\MDK4.23\ARM\RV31\Inc\stdlib.h
+.\Obj\guidemo_graph.o: Source\uCGUI\uCGUIDemo\GUIDEMO.h

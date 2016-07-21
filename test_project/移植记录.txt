@@ -1,0 +1,17 @@
+1. Bsp.c: void GPIO_Config(void)
+	配置 LED1 - LED4为输出
+
+2. Bsp.c: void SPI_Config(void)
+	将SPI2修改为SPI1
+
+3. 修改 ucGui\LCDDrivers\ili9320.c
+
+4、重新编译lib
+
+5. 修改触摸屏宏
+#define GUI_TOUCH_AD_LEFT       3601
+#define GUI_TOUCH_AD_RIGHT      393
+#define GUI_TOUCH_AD_TOP        273
+#define GUI_TOUCH_AD_BOTTOM     3671
+
+

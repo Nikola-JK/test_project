@@ -1,0 +1,17 @@
+.\Obj\guidemo_navi.o: Source\uCGUI\uCGUIDemo\GUIDEMO_Navi.c
+.\Obj\guidemo_navi.o: F:\soft\MDK4.23\ARM\RV31\Inc\math.h
+.\Obj\guidemo_navi.o: .\Source\uCGUI\inc\GUI.h
+.\Obj\guidemo_navi.o: .\Source\uCGUI\inc\GUI_ConfDefaults.h
+.\Obj\guidemo_navi.o: .\Source\uCGUI\inc\GUIConf.h
+.\Obj\guidemo_navi.o: .\Source\uCGUI\inc\GUIType.h
+.\Obj\guidemo_navi.o: .\Source\uCGUI\inc\LCD.h
+.\Obj\guidemo_navi.o: .\Source\uCGUI\inc\GUIVersion.h
+.\Obj\guidemo_navi.o: Source\uCGUI\uCGUIDemo\GUIDEMO.h
+.\Obj\guidemo_navi.o: .\Source\uCGUI\inc\LCD_ConfDefaults.h
+.\Obj\guidemo_navi.o: .\Source\uCGUI\inc\LCDConf.h
+.\Obj\guidemo_navi.o: .\Source\uCGUI\inc\WM.h
+.\Obj\guidemo_navi.o: .\Source\uCGUI\inc\WM_GUI.h
+.\Obj\guidemo_navi.o: .\Source\uCGUI\inc\FRAMEWIN.h
+.\Obj\guidemo_navi.o: .\Source\uCGUI\inc\DIALOG_Intern.h
+.\Obj\guidemo_navi.o: Source\uCGUI\uCGUIDemo\Map.h
+.\Obj\guidemo_navi.o: F:\soft\MDK4.23\ARM\RV31\Inc\stdlib.h

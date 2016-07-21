@@ -1,0 +1,13 @@
+.\Obj\guidemo_bitmap.o: Source\uCGUI\uCGUIDemo\GUIDEMO_Bitmap.c
+.\Obj\guidemo_bitmap.o: .\Source\uCGUI\inc\GUI.h
+.\Obj\guidemo_bitmap.o: .\Source\uCGUI\inc\GUI_ConfDefaults.h
+.\Obj\guidemo_bitmap.o: .\Source\uCGUI\inc\GUIConf.h
+.\Obj\guidemo_bitmap.o: .\Source\uCGUI\inc\GUIType.h
+.\Obj\guidemo_bitmap.o: .\Source\uCGUI\inc\LCD.h
+.\Obj\guidemo_bitmap.o: .\Source\uCGUI\inc\GUIVersion.h
+.\Obj\guidemo_bitmap.o: Source\uCGUI\uCGUIDemo\GUIDEMO.h
+.\Obj\guidemo_bitmap.o: .\Source\uCGUI\inc\LCD_ConfDefaults.h
+.\Obj\guidemo_bitmap.o: .\Source\uCGUI\inc\LCDConf.h
+.\Obj\guidemo_bitmap.o: F:\soft\MDK4.23\ARM\RV31\Inc\math.h
+.\Obj\guidemo_bitmap.o: .\Source\uCGUI\inc\WM.h
+.\Obj\guidemo_bitmap.o: .\Source\uCGUI\inc\WM_GUI.h
